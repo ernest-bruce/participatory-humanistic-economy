@@ -1,4 +1,4 @@
-# The Participatory Humanistic Economy
+# Blog of the Participatory Humanistic Economy
 
 [test][ineffective_laws]
 
