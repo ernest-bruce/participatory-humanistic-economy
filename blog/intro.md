@@ -1,4 +1,4 @@
-# The Participatory Humanistic Economy Blog
+ `# The Participatory Humanistic Economy Blog
 
 i have been working on an initiative to empower people when it comes to their digital lives, especially control over their personal data  
 – the previous phase involved the creation of an alternative to Amazon, Apple, Facebook, Google, Twitter, and other powerfuld data silo–owning companies whose first priority *is not* the benefit of individuals or humanity but their self-enrichment through profit-maximizing practices which include betraying their proclamatios of “keeping user data safe”  
