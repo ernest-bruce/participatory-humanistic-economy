@@ -8,4 +8,4 @@
 
 
 
-[ineffective_laws]: https://github.com/ernest-bruce/human-internet/blob/master/ineffective_laws/ineffective_laws.md#laws-are-ineffective-at-protecting-personal-information
+[ineffective_laws]: https://ernest-bruce.github.io/participatory-humanistic-economy/blog/intro
