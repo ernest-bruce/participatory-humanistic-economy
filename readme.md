@@ -1,4 +1,4 @@
-# Blog of the Participatory Humanistic Economy
+# Participatory Humanistic Economy
 
 [Introduction][intro]
 
