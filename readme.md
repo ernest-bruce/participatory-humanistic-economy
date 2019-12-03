@@ -1,6 +1,6 @@
 # Blog of the Participatory Humanistic Economy
 
-[test][ineffective_laws]
+[Introduction][intro]
 
 &nbsp;
 &nbsp;
@@ -8,4 +8,4 @@
 
 
 
-[ineffective_laws]: https://ernest-bruce.github.io/participatory-humanistic-economy/blog/intro
+[intro]: https://ernest-bruce.github.io/participatory-humanistic-economy/blog/intro
