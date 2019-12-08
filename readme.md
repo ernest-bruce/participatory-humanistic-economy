@@ -8,4 +8,4 @@
 
 
 
-[intro]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/blog/intro.md#the-participatory-humanistic-economy-blog
+[intro]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/blog#the-participatory-humanistic-economy-blogblog
