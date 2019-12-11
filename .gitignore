@@ -20,3 +20,4 @@ DerivedData/
 IDEWorkspaceChecks.plist
 
 .DS_Store
+*.html

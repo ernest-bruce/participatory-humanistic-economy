@@ -1,44 +1,33 @@
 # The Participatory Humanistic Economy Blog
 
-i have been working on an initiative to empower people when it comes to their digital lives, especially control over their personal data  
-– the previous phase involved the creation of an alternative to Amazon, Apple, Facebook, Google, Twitter, and other powerfuld data silo–owning companies whose first priority *is not* the benefit of individuals or humanity but their self-enrichment through profit-maximizing practices which include betraying their proclamatios of “keeping user data safe”  
-· these are some documents i have written about that: [Human Internet][human_internet]
-– however, while observing current events and learning about social enterprises (cooperatives) i have come to the realization that theh human internet cannot be implemented using our current descructive sociopolitical frameworks
-– we need frameworks that put people, their lives, and their ecology first  
+```
+2019.12.10
+```
 
-a couple of months ago, i was introduced to something called *cooperatives*  
-– you probably know about them already  
-· so did i, or so i thought  
-– but this time i read about their origins, the problems they aim to solve, their principles and values  
-· i learned about the Rochdale Principles
-– i also have been reading about Chile, Hong Kong, The Soviet Union, China, Taiwan, and other jurisdictios that are going through chaos, fomented by misguided, power·hungry, and corrupt leadership
+> the explorers of the future are observing us with wonder and open minds, but they are learning the wrong message from their elders  
+> – we are not for the unbounded enrichment of selfish entities vested only in growing their influence and increasing their wealth to make humanity into a machine, to further their influence and power  
+> – humanity is a messenger and our message is us, what makes us *us*, our thoughts and ideals, our dreams for the humanities of the future  
 
-so i widened the scope of my research  
-– i want to device the open, public ecosystem (digital platforms, policies, practices, principles, and core values) that drives entire *values-based economies*  
-– what is a values-based economy?  
-· it is an economy that is driven by... values, human values  
-· not profit  
-· not this caustic profit-at-all-costs culture that is destroying our environment, individuals, and humanity  
+&nbsp;
+&nbsp;
 
-i have been further inspired by three people who have written about developing an economy that is greater tha any individual, company, or government, that puts our only home, humans, and humanity first  
-· these inspiring human beings are Larry Chang, Arjo Klamer, and Lee Ann, who wrote:
+this is the blog of the **participatory humanistic economy,** which comprises earth, individuals, groups of people, and organizations known as *participatory humanistic democracies*  
 
-* [*Notes for a Planetary Economy—A Values-Based System*][https://www.larrychang.info/writings/Notes%20for%20a%20Value-based%20Economy.pdf]  
-* [*Doing the Right Thing: A Value Based Economy*][https://repub.eur.nl/pub/109438/doing-the-right-thing..pdf]  
-* [“Will Millennials Drive the Shift from a Consumption-Based to a Values-Based Economy?”][https://sustainablebrands.com/read/behavior-change/will-millennials-drive-the-shift-from-a-consumption-based-to-a-values-based-economy]
+the [**human internet**][human_internet] is an initiative that empowers people with true ownership and control over their personal data and digital life   
+– sadly, the human internet cannot be implemented on top of our misguided socioeconomic systems, which are not designed to protect our environment, our human rights, and our prized possessions, especially our data  
+· those systems are designed to protect the wealth and power of the entities who control the means of production while doing little to no actual work  
+· this only gets us to the inequalities and injustices from which societies across the world are suffering   
 
+the participatory humanistic economy is a values-based economy  
+· a **values-based economy** is guided by human values, such as trust, honesty, liberty, transparency, fairness, respect, and knowledge  
+· these are ideals or possessions that individuals, organizations, societies, or the entire human race want to attain or use to realize even higher values    
+– the materialistic basis used in the decision-making processes of contemporary socioeconomic systems, such as capitalism, not only do not use human values, they exclude them by elevating the maximization of profit as an ideal to which even human life is secondary  
+– in its drive to maximize efficiency and reduce waste (to maximize profits), capitalism removes humanity from entities that are made up of humans (corporations), and turns them into a soulless machine, in which these humans hold little or no responsibility for the catastrophes that the entity causes in the name of *maximizing profit*  
+· this is true even when it is proven that human life was lost due to cost-reduction or revenue-increasing decisions taken by the humans in charge   
+– individuals form meaningful connections with the entities that, thru their behavior and actions, prove not only their authenticity but also that they are virtuous in the eyes of the individuals who fuel the economy through their interactions  
+· when an entity—through actions or behavior that is negligent, incompetent, unjust, criminal, or not virtuous, for example—does not meet or betrays the values of an individual to whom it is connected or with whom it interacts, that individual can break the connection to or cease interacting with the offending entity, and choose one that is more compatible with zir values  
 
-i read Chang’s paper  
-- it describes the essential components of a platform that could drive a value-based economy based on the earths resources  
-- his ideas could be adapted to be used in an open, digital platform, the Planecology platform, that people and organizations, communities, and societies use to manage their operations and interactions  
-· closed, private platforms will still exist, but there will always be alternatives based on an open foundation using private-data ownership values  
-
-Klamer describes a value-based economy focused on human belonging, connection, and culture  
-- adding his ideas to the initiative would give it depth and a more “human touch,” something to which some people could be very attracted  
-
-Ann’s focus on the Millennials’s pursuit of “experiences” and their dedication to the environment tells me that we’re on the right track because they “comprise the largest age cohort ever”  
-
-combining these four approaches could give rise to a the foundation of the next economic model *and* actual implementation that may provide a novel alternative to the failed models that have mired us in unfairness, inequality, and social strife  
+the participatory humanistic economy is the grass-roots system that empowers individuals to ensure that their environment is protected, and that the entities use shared environments efficiently and responsibly, while adhering to human values that advance the status of all individuals, and that improve the tools at humanitys disposal to ensure its endurance and spread among the stars  
 
 
 &nbsp;
@@ -48,4 +37,4 @@ combining these four approaches could give rise to a the foundation of the next 
 
 
 
-human_internet: https://github.com/ernest-bruce/human-internet
+[human_internet]: https://github.com/ernest-bruce/human-internet
