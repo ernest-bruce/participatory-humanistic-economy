@@ -13,4 +13,4 @@ the goals of the Participatory Humanistic Economy include tacking humanitys prob
 &nbsp;
 
 
-[humanitys_problems]: https://github.com/ernest-bruce/human-internetxxxx
+[humanitys_problems]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/goals/humanitys_problems.md#the-participatory-humanistic-economy-solves-humanitys-problems
