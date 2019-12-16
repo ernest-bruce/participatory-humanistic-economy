@@ -5,7 +5,7 @@
 ```
 
 > *we were under pressure to minimize any changes to cut costs, and to get it done quickly*  
-> *– in my view, Boeing was making decisions on the basis of share price*—[Boeing insider and FBI informant](https://youtu.be/QytfYyHmxtc?t=534 "Rogue Boeing 737 Max planes ‘with minds of their own’ | 60 Minutes Australia")  
+> *– in my view, Boeing was making decisions on the basis of share price*—[Boeing insider](https://youtu.be/QytfYyHmxtc?t=534 "Rogue Boeing 737 Max planes ‘with minds of their own’ | 60 Minutes Australia") (and FBI informant)  
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,7 @@ what is more powerful than markets and legislation?
 · they do this because they do not want to take responsibility for their own actions  
 · they want to blame others for their data mismanagement, malfeasance, and other activity that people naturally find repugnant and would not tolerate from their personal friends  
 &nbsp;
-> *i feel like if i was to talk to Boeing, i would say i feel cheated, that i don’t get to see our son be a father, our other son be an uncle*—[Susan Ripple](https://youtu.be/QytfYyHmxtc?t=1852), mother of two victims of Boeing’s criminality  
+> *i feel like if i was to talk to Boeing, i would say i feel cheated, that i don’t get to see our son be a father, our other son be an uncle*—[Susan Ripple](https://youtu.be/QytfYyHmxtc?t=1852 "Rogue Boeing 737 Max planes ‘with minds of their own’ | 60 Minutes Australia"), mother of two victims of Boeing’s criminality  
 > 
 > by herself, Susan can do little  
 > · but, together with the community of aggrieved family members and friends of the 346 people who died within six months because of Boeing’s disregard for safety (regardless of what its CEO says), Susan could do plenty  
