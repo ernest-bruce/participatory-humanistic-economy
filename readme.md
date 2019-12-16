@@ -1,6 +1,8 @@
 # Participatory Humanistic Economy
 
-[Introduction][intro]
+* [Introduction][intro]  
+* [Guiding and Correcting Corporate Behavior](https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/blog/2019/controlling_behavior#guiding-and-controlling-behavior)  
+
 
 &nbsp;
 &nbsp;

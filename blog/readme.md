@@ -35,6 +35,4 @@ the participatory humanistic economy is the grass-roots system that empowers ind
 &nbsp;
 
 
-
-
 [human_internet]: https://github.com/ernest-bruce/human-internet
