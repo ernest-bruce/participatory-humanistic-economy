@@ -29,6 +29,10 @@ the participatory humanistic economy is a values-based economy
 
 the participatory humanistic economy is the grass-roots system that empowers individuals to ensure that their environment is protected, and that the entities use shared environments efficiently and responsibly, while adhering to human values that advance the status of all individuals, and that improve the tools at humanitys disposal to ensure its endurance and spread among the stars  
 
+&nbsp;
+blog entries:  
+* [Guiding and Correcting Corporate Behavior](https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/blog/2019/controlling_behavior.md#guiding-and-correcting-corporate-behavior)  
+
 
 
 &nbsp;
