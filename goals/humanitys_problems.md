@@ -2,13 +2,15 @@
 
 
 ## homelessness (shelter)
+* build communities of individuals that work in return of shelter so that their community can provide products and services to neighboring communities or other entities  
 
 ## data privacy, ownership, and security (internet)
 
 ## broadcast
-* alow people to publish and publicize content of any kind  
+* alow people to publish and publicize content of any kind while being their own platform (they are the publisher, editor, and moderator; they are the *platform*)  
 
 ## artificial intelligence
+* artificial intelligence that works on behave of individuals, not data·hungry corporations
 
 ## information publishing
 allow individuals, groups, communities, and other entities to publish and disseminate factual content (opinion falls in the *broadcast* category)
@@ -17,12 +19,13 @@ allow individuals, groups, communities, and other entities to publish and dissem
 
 ## security
 * data security
-* personal security
+* personal security: eliminating the rape and murder of women
 * building security
 
 ## reduce, renew, reuse, reprocess, recycle, repurpose
 
 ## space exploration
+* ensure that the fledging space economy benefits regular people *directly*, not just a few billionaires  
 
 ## devices
 
@@ -49,5 +52,7 @@ allow individuals, groups, communities, and other entities to publish and dissem
 ## marketplaces
 
 ## sustainable habitats
+
+## entrepreneurship
 
 ## poverty 
