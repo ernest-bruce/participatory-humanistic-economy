@@ -1,16 +1,22 @@
-# Participatory Humanistic Economy Goals
+# Participatory Humanistic Economy Ideals
 
 &nbsp;
 &nbsp;
 
-the goals of the Participatory Humanistic Economy include tacking humanitys problems, which stiffle its ability to move forward  
+the ideals of the Participatory Humanistic Economy include science, knowledge, and truth  
+&nnbsp;
 
-* [The Participatory Humanistic Economy Solves Humanitys Problems][humanitys_problems]
+## science
 
+> [search for second earth][search_for_second_earth]  
+
+&nbsp;
+
+science is the practice and tool that comprises the capabilities that evolution has given humanity to determine its past and build its future  
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 
-[humanitys_problems]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/goals/humanitys_problems.md#the-participatory-humanistic-economy-solves-humanitys-problems
+[search_for_second_earth]: https://youtu.be/40Kx9-xxnL0
