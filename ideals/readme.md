@@ -4,7 +4,7 @@
 &nbsp;
 
 the ideals of the Participatory Humanistic Economy include science, knowledge, and truth  
-&nnbsp;
+&nbsp;
 
 ## science
 
