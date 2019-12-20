@@ -18,7 +18,9 @@ science is the practice and tool that comprises the capabilities that evolution 
 &nbsp;
 
 ## security
+
 > [Hackers steal data for 15 million patients, then sell it back to lab that lost it](https://arstechnica.com/information-technology/2019/12/clinical-lab-pays-hackers-for-the-return-of-data-of-15-million-patients/)  
+> [A data leak exposed the personal data of over 3,000 ring users](https://www.buzzfeednews.com/article/carolinehaskins1/data-leak-exposes-personal-data-over-3000-ring-camera-users)  
 
 
 security of all kinds (physical, data) is a human right   
