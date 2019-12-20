@@ -45,9 +45,9 @@ other focus areas:
 
 
 
-[intro]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/blog#the-participatory-humanistic-economy-blog
-[blog]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/blog
-[goals]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/goals#participatory-humanistic-economy-goals
+[intro]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/blog#the-participatory-humanistic-economy-blog
+[blog]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/blog
+[goals]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/goals#participatory-humanistic-economy-goals
 [controlling_behavior]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/blog/2019/controlling_behavior.md#guiding-and-correcting-corporate-behavior
-[thoughts]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/thoughts
-[ideals]: https://github.com/ernest-bruce/participatory-humanistic-economy/tree/master/ideals#participatory-humanistic-economy-ideals
+[thoughts]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/thoughts
+[ideals]: https://github.com/ernest-bruce/participatory-humanistic-economy/blob/master/ideals#participatory-humanistic-economy-ideals
