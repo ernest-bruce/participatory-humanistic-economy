@@ -56,3 +56,11 @@ allow individuals, groups, communities, and other entities to publish and dissem
 ## entrepreneurship
 
 ## poverty 
+
+## scarcity
+
+> *we are a crude form of life right now, in the evolutionary stages; our civilization—really, we are not even civilized yet*  
+> *· so, after the world joins together, and we are through with military systems, prisons, torture, hunger, poverty, deprivation, when that is gone that will be the beginning of a civilized world*  
+> *· we are not there yet*—[Jacque Fresco](https://youtu.be/bwJaLFMf7IA "The Venus Project - Future By Design")  
+
+design and implement the projects, initiatives, and enterprises that bring abundance and true freedom to humanity, ensuring that we can attain meaningful and transcendental goals and ideals, so that we “elevate humans to their highest potential”    
