@@ -7,7 +7,7 @@
 ## data privacy, ownership, and security (internet)
 
 ## broadcast
-* alow people to publish and publicize content of any kind while being their own platform (they are the publisher, editor, and moderator; they are the *platform*)  
+* allow people to publish and publicize content of any kind while being their own platform (they are the publisher, editor, and moderator; they are the *platform*)  
 
 ## artificial intelligence
 * artificial intelligence that works on behave of individuals, not data·hungry corporations
