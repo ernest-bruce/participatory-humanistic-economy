@@ -1,11 +1,11 @@
-# Participatory Humanistic Economy Goals
+# Planetonomy Goals
 
 &nbsp;
 &nbsp;
 
-the goals of the Participatory Humanistic Economy include tacking humanitys problems, which stiffle its ability to move forward  
+the goals of the Planetonomy include tacking humanitys problems, which stiffle its ability to move forward  
 
-* [The Participatory Humanistic Economy Solves Humanitys Problems][humanitys_problems]
+* [The Planetonomy Solves Humanitys Problems][humanitys_problems]
 
 
 &nbsp;

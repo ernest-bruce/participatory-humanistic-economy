@@ -1,4 +1,4 @@
-# The Participatory Humanistic Economy Solves Humanitys Problems
+# The Planetonomy Solves Humanitys Problems
 
 
 ## homelessness (shelter)
