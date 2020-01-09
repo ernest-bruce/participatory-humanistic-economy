@@ -1,9 +1,9 @@
-# Participatory Humanistic Economy Ideals
+# Planetonomy Ideals
 
 &nbsp;
 &nbsp;
 
-the ideals of the Participatory Humanistic Economy include science, knowledge, truth, privady, and security    
+the ideals of the Planetonomy include science, knowledge, wonder, truth, privacy, and security    
 &nbsp;
 &nbsp;
 
@@ -16,6 +16,17 @@ science is the practice and tool that comprises the capabilities that evolution 
 
 &nbsp;
 &nbsp;
+
+## wonder
+
+> [The Looking Planet](https://youtu.be/A8LRxIANzQs "**Multi-Award-Winning** CGI Animated Short: "The Looking Planet" - by Eric Law Anderson | TheCGBros")  
+
+we must let our minds imagine and wonder the possibilities open to us when we work together for a common cause  
+· we are part of a whole  
+
+&nbsp;
+&nbsp;
+
 
 ## security
 
