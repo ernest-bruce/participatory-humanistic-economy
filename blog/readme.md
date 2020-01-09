@@ -1,6 +1,6 @@
-# The Participatory Humanistic Economy Blog
+# The Planetonomy Blog
 
-this is the blog of the **Participatory Humanistic Economy,** which comprises earth, individuals, groups of people, and organizations known as *participatory humanistic democracies*  
+this is the blog of the **Planetonomy,** which comprises earth, individuals, groups of people, and organizations known as *participatory humanistic democracies*  
 &nbsp;
 
 blog entries:  
