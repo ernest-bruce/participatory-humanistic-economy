@@ -1,4 +1,4 @@
-# 2019.12.16 Monday
+# 12019.12.16 Monday
 
 > for humanity to really thrive, to really bring up the best of each of us, we need a different economy  
 > this economy must prioritize the needs and wants of all its participants  
